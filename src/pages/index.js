@@ -13,10 +13,6 @@ import {
 
 const sectionData = [
   {
-    name: ChairSection,
-    slide: 3,
-  },
-  {
     name: TableSection,
     slide: 1,
   },
@@ -27,6 +23,10 @@ const sectionData = [
   {
     name: SofaSetSection,
     slide: 1,
+  },
+  {
+    name: ChairSection,
+    slide: 3,
   },
   {
     name: CarpetSection,

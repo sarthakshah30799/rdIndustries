@@ -1,11 +1,7 @@
 export const header = {
-  name: "SARTHAK FURNITURE",
-  gstNo: "24AKVPS0306G2Z3",
+  name: "R. D. INDUSTRIES",
+  gstNo: "24AKQPS8493R1ZQ",
   links: [
-    {
-      title: "Chairs",
-      link: "#chairs",
-    },
     {
       title: "Tables",
       link: "#tables",
@@ -17,6 +13,10 @@ export const header = {
     {
       title: "Sofa-Sets",
       link: "#sofa-sets",
+    },
+    {
+      title: "Chairs",
+      link: "#chairs",
     },
     {
       title: "Carpets",
@@ -38,12 +38,12 @@ export const header = {
 };
 
 export const footer = {
-  title: "SARTHAK FURNITURE",
-  add1: "220,Shviam Complex,",
-  add2: "Near SBI Bank, Tadwadi Rander Road,",
-  city: "Surat",
+  title: "R. D. INDUSTRIES",
+  add1: "29, Kamal Estate,",
+  add2: "Nr. Kamal Hotel, Rakhiyal,",
+  city: "Ahmedabad",
   state: "Gujarat",
-  pincode: "395009",
+  pincode: "380023",
   socialMedia: [
     {
       name: "Call",
@@ -64,27 +64,27 @@ export const ChairSection = {
   title: "Chairs",
   sliderImage: [
     {
-      id: "SFCHAIR01",
+      id: "RDCHAIR01",
       title: "chair-image-1",
       image: "/assets/chair-section/chair-image-1.jpeg",
     },
     {
-      id: "SFCHAIR02",
+      id: "RDCHAIR02",
       title: "chair-image-2",
       image: "/assets/chair-section/chair-image-2.jpeg",
     },
     {
-      id: "SFCHAIR03",
+      id: "RDCHAIR03",
       title: "chair-image-3",
       image: "/assets/chair-section/chair-image-3.jpeg",
     },
     {
-      id: "SFCHAIR04",
+      id: "RDCHAIR04",
       title: "chair-image-4",
       image: "/assets/chair-section/chair-image-4.jpeg",
     },
     {
-      id: "SFCHAIR05",
+      id: "RDCHAIR05",
       title: "chair-image-5",
       image: "/assets/chair-section/chair-image-5.jpeg",
     },
@@ -95,22 +95,22 @@ export const TableSection = {
   title: "Tables",
   sliderImage: [
     {
-      id: "SFTABLE01",
+      id: "RDTABLE01",
       title: "table-image-1",
       image: "/assets/table-section/table-image-1.jpeg",
     },
     {
-      id: "SFTABLE02",
+      id: "RDTABLE02",
       title: "table-image-2",
       image: "/assets/table-section/table-image-2.jpeg",
     },
     {
-      id: "SFTABLE03",
+      id: "RDTABLE03",
       title: "table-image-3",
       image: "/assets/table-section/table-image-3.jpeg",
     },
     {
-      id: "SFTABLE04",
+      id: "RDTABLE04",
       title: "table-image-4",
       image: "/assets/table-section/table-image-4.jpeg",
     },
@@ -121,22 +121,22 @@ export const CarpetSection = {
   title: "Carpets",
   sliderImage: [
     {
-      id: "SFCARPET01",
+      id: "RDCARPET01",
       title: "carpet-image-1",
       image: "/assets/carpet-section/carpet-image-1.jpg",
     },
     {
-      id: "SFCARPET02",
+      id: "RDCARPET02",
       title: "carpet-image-2",
       image: "/assets/carpet-section/carpet-image-2.jpeg",
     },
     {
-      id: "SFCARPET03",
+      id: "RDCARPET03",
       title: "carpet-image-3",
       image: "/assets/carpet-section/carpet-image-3.jpg",
     },
     {
-      id: "SFCARPET04",
+      id: "RDCARPET04",
       title: "carpet-image-4",
       image: "/assets/carpet-section/carpet-image-4.jpg",
     },
@@ -147,22 +147,22 @@ export const SofaSetSection = {
   title: "Sofa-Sets",
   sliderImage: [
     {
-      id: "SFSOFASET01",
+      id: "RDSOFASET01",
       title: "sofa-set-image-1",
       image: "/assets/sofa-set-section/sofa-set-image-1.jpeg",
     },
     {
-      id: "SFSOFASET02",
+      id: "RDSOFASET02",
       title: "sofa-set-image-2",
       image: "/assets/sofa-set-section/sofa-set-image-2.jpeg",
     },
     {
-      id: "SFSOFASET03",
+      id: "RDSOFASET03",
       title: "sofa-set-image-3",
       image: "/assets/sofa-set-section/sofa-set-image-3.jpeg",
     },
     {
-      id: "SFSOFASET04",
+      id: "RDSOFASET04",
       title: "sofa-set-image-4",
       image: "/assets/sofa-set-section/sofa-set-image-4.jpeg",
     },
@@ -173,22 +173,22 @@ export const CurtainSection = {
   title: "Curtains",
   sliderImage: [
     {
-      id: "SFCURTAIN01",
+      id: "RDCURTAIN01",
       title: "curtain-image-1",
       image: "/assets/curtain-section/curtain-image-1.jpeg",
     },
     {
-      id: "SFCURTAIN02",
+      id: "RDCURTAIN02",
       title: "curtain-image-2",
       image: "/assets/curtain-section/curtain-image-2.jpeg",
     },
     {
-      id: "SFCURTAIN03",
+      id: "RDCURTAIN03",
       title: "curtain-image-3",
       image: "",
     },
     {
-      id: "SFCURTAIN04",
+      id: "RDCURTAIN04",
       title: "curtain-image-4",
       image: "",
     },
@@ -199,27 +199,27 @@ export const ChairPartSection = {
   title: "Chair-Parts",
   sliderImage: [
     {
-      id: "SFCHAIRPARTS01",
+      id: "RDCHAIRPARTS01",
       title: "chair-part-image-1",
       image: "/assets/chair-parts-section/chair-parts-image-1.jpg",
     },
     {
-      id: "SFCHAIRPARTS02",
+      id: "RDCHAIRPARTS02",
       title: "chair-part-image-2",
       image: "/assets/chair-parts-section/chair-parts-image-2.jpg",
     },
     {
-      id: "SFCHAIRPARTS03",
+      id: "RDCHAIRPARTS03",
       title: "chair-part-image-3",
       image: "/assets/chair-parts-section/chair-parts-image-3.jpg",
     },
     {
-      id: "SFCHAIRPARTS04",
+      id: "RDCHAIRPARTS04",
       title: "chair-part-image-4",
       image: "/assets/chair-parts-section/chair-parts-image-4.jpg",
     },
     {
-      id: "SFCHAIRPARTS05",
+      id: "RDCHAIRPARTS05",
       title: "chair-part-image-5",
       image: "/assets/chair-parts-section/chair-parts-image-5.jpg",
     },
@@ -230,27 +230,27 @@ export const DoubleBedSection = {
   title: "Double-Beds",
   sliderImage: [
     {
-      id: "SFDOUBLEBED01",
+      id: "RDDOUBLEBED01",
       title: "double-bed-image-1",
       image: "/assets/double-bed-section/double-bed-image-1.jpeg",
     },
     {
-      id: "SFDOUBLEBED02",
+      id: "RDDOUBLEBED02",
       title: "double-bed-image-2",
       image: "/assets/double-bed-section/double-bed-image-2.jpeg",
     },
     {
-      id: "SFDOUBLEBED03",
+      id: "RDDOUBLEBED03",
       title: "double-bed-image-3",
       image: "/assets/double-bed-section/double-bed-image-3.jpeg",
     },
     {
-      id: "SFDOUBLEBED04",
+      id: "RDDOUBLEBED04",
       title: "double-bed-image-4",
       image: "/assets/double-bed-section/double-bed-image-4.jpeg",
     },
     {
-      id: "SFDOUBLEBED05",
+      id: "RDDOUBLEBED05",
       title: "double-bed-image-5",
       image: "/assets/double-bed-section/double-bed-image-5.jpeg",
     },

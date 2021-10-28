@@ -82,11 +82,11 @@ export default function Footer() {
               display="flex"
               justifyContent="space-between"
             >
-              <a href="tel:98253819560" style={{ color: "black" }}>
+              <a href="tel:9824043803" style={{ color: "black" }}>
                 <CallIcon />
               </a>
               <a
-                href="mailto:sarthakshah30799@gmail.com"
+                href="mailto:rupeshshah308@gmail.com"
                 style={{ color: "black" }}
               >
                 <MailIcon />

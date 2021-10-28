@@ -1,36 +1,36 @@
 export const chairPartsData = [
   {
-    id: "SFCHAIRPARTS01",
+    id: "RDCHAIRPARTS01",
     name: "Fiber Chair base",
     type: "Chair Base",
     image: "/assets/chair-parts-section/chair-parts-image-1.jpg",
   },
   {
-    id: "SFCHAIRPARTS02",
+    id: "RDCHAIRPARTS02",
     name: "Silver Steel Chair base",
     type: "Chair Base",
     image: "/assets/chair-parts-section/chair-parts-image-2.jpg",
   },
   {
-    id: "SFCHAIRPARTS03",
+    id: "RDCHAIRPARTS03",
     name: "Black Steel Chair base",
     type: "Chair Base",
     image: "/assets/chair-parts-section/chair-parts-image-3.jpg",
   },
   {
-    id: "SFCHAIRPARTS04",
+    id: "RDCHAIRPARTS04",
     name: "Chair Handle",
     type: "Chair Handle",
     image: "/assets/chair-parts-section/chair-parts-image-4.jpg",
   },
   {
-    id: "SFCHAIRPARTS05",
+    id: "RDCHAIRPARTS05",
     name: "Chair Polo Handle",
     type: "Chair Handle",
     image: "/assets/chair-parts-section/chair-parts-image-5.jpg",
   },
   {
-    id: "SFCHAIRPARTS06",
+    id: "RDCHAIRPARTS06",
     name: "Chair Adjustable Handle",
     type: "Chair Handle",
     image: "/assets/chair-parts-section/chair-parts-image-6.jpg",

@@ -32,9 +32,7 @@ export default function DisplayItem({ data, id }) {
             <Typography variant="h4" style={{ paddingBottom: "10px" }}>
               Enquiry or Order on
             </Typography>
-            <Typography variant="h3">
-              Vipulbhai : 9825381956, 7016911293
-            </Typography>
+            <Typography variant="h3">Rupeshbhai : 9824043803</Typography>
           </Box>
           <Grid container className={classes.chairInfoTable} spacing={2}>
             <Grid
