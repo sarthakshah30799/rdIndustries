@@ -92,7 +92,7 @@ export default function Footer() {
                 <MailIcon />
               </a>
               <a
-                href="https://wa.me/message/VILIS62SKTM7H1"
+                href="https://wa.me/qr/SZURZTLWCGNVA1"
                 style={{ color: "black" }}
                 target="_blank"
               >
